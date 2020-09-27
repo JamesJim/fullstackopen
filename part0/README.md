@@ -1,19 +1,22 @@
-#0.1: HTML
-Review the basics of HTML by reading this tutorial from Mozilla: HTML tutorial.
+# 0.1: HTML
+Review the basics of HTML by reading this tutorial from [Mozilla: HTML tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
 
 This exercise is not submitted to GitHub, it's enough to just read the tutorial
 
-#0.2: CSS
-Review the basics of CSS by reading this tutorial from Mozilla: CSS tutorial.
+
+# 0.2: CSS
+Review the basics of CSS by reading this tutorial from [Mozilla: CSS tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics).
 
 This exercise is not submitted to GitHub, it's enough to just read the tutorial
 
-#0.3: HTML forms
-Learn about the basics of HTML forms by reading Mozilla's tutorial Your first form.
+
+# 0.3: HTML forms
+Learn about the basics of HTML forms by reading [Mozilla's tutorial Your first form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form).
 
 This exercise is not submitted to GitHub, it's enough to just read the tutorial
 
-#0.4: new note
+
+# 0.4: new note
 In chapter Loading a page containing JavaScript - revised the chain of events caused by opening the page https://studies.cs.helsinki.fi/exampleapp/notes is depicted as a sequence diagram
 
 The diagram was made using websequencediagrams service as follows:
@@ -45,8 +48,11 @@ The diagram does not have to be a sequence diagram. Any sensible way of presenti
 
 All necessary information for doing this, and the next two exercises, can be found from the text of this part. The idea of these exercises is to read the text through once more, and to think through what is going on there. Reading the application code is not necessary, but it is of course possible.
 
+<img src="https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC40IE5ldyBOb3RlCgoKbm90ZSBsZWZ0IG9mIEJyb3dzZXI6IFVzZXIgY2xpY2tzIGJ1dHRvbiB0byBzZW5kIGlucHV0IHRvIHRoZSBzZXJ2ZXIKADEHLT5TAAsFOiBIVFRQIFBPU1QgcmVxdWVzdCBzZW4AMQUvbmV3X25vdGUAdAZyaWdoAHYFADIIADwGIGNyZWF0ZXMgYSBuZXcgb2JqZWN0IGFuZCBhZGRzAHYIYXJyYXkgY2FsbGVkIG5vdGVzCgB7Bi0-AIFBCQCBBQVzdGF0dXMgY29kZSAzMDIgKHJlZGlyZWN0LWFza3MgYgCBcQYgdG8gZG8AbAcAgT0FR0VUAIEuBm90ZXMpAIFQF0dFAIFcCgAkCQB1FE1MAH0FACUiOiBtYWluLmNzAIE9EwARCQAeKGoALRhqcwCDZhcAg38HIHJlYWRzIGpzIHdoaWNoIHRyaWdnZXJzAIFkDWZvcgCCcwcAgXsiZm9yIGRhdGEuanNvbgCDGBIAEgkgKHJhdwAlBSBvZgCEYgUAgnkHAIERHndyaQCELQUAhBAFb2YAOwYAhSEHcGFnZQ&s=default">
+
 #0.5: Single page app
 Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
+
 
 #0.6: New note
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
