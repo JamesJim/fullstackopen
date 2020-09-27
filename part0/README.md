@@ -1,3 +1,5 @@
+## Part 0 Exercises (Diagrams included below for 0.4, 0.5, and 0.6)
+
 # 0.1: HTML
 Review the basics of HTML by reading this tutorial from [Mozilla: HTML tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
 
