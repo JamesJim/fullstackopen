@@ -59,6 +59,7 @@ Create a diagram depicting the situation where the user goes to the single page 
 # 0.6: New note
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
 
-This was the last exercise, and it's time to push your answers to GitHub and mark the exercises as done in the submission application.
-
 <img src="https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC42IE5ldyBOb3RlCgoKCm5vdGUgbGVmdCBvZiBCcm93c2VyOiBVc2VyIHN1Ym1pdHMgZm9ybSBhdCAvc3BhLiA8Rm9ybT4gZG9lcyBub3QgaGF2ZSBhY3Rpb24gb3IgbWV0aG9kIGF0dHJpYnV0ZXMASxdqcyBoYW5kbGVzIGV2ZW50OiBwcgAEBXMgZGVmYXVsdABMCWYgc2VuZGluZyBkYXRhIChhbmQgY2F1c2luZyBHRVQgcmVxdWVzdCksIGNyZWEAWRpuZXcgbm90ZSwgYW5kIGFkZHMgdG8gdGhlIGxpc3QuIFRoZSBiAIF8BiB0aGVuAHIFcwAcBQB0BXZpYSBKU09OAC4IU2VydmVyCgCCLgctPgAKBjogSFRUUCBQT1MAgREJIHRvIC9uZXdfbm90ZV9zcGEAgnAGcmlnaACCcgUAMQgASwYgdXBkYXRlcwCBEQUgd2l0aACBNQVjb250ZW50CgBwBi0-AIMjCQAvB3Jlc3BvbmRzACwGc3RhdHVzIGNvZGUgMjAxAIITB2QAg1gXAINxByBzdGF5cyBvbiBzYW1lIHBhZ2UAgiYFAIICBm5vIGZ1cnRoAGcFAIJtBXM&s=default">
+
+
+This was the last exercise, and it's time to push your answers to GitHub and mark the exercises as done in the submission application.
