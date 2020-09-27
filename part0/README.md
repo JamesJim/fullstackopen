@@ -53,6 +53,8 @@ All necessary information for doing this, and the next two exercises, can be fou
 #0.5: Single page app
 Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
 
+<img src="https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC40IE5ldyBOb3RlCgoKbm90ZSBsZWZ0IG9mIEJyb3dzZXI6IFVzZXIgZ29lcyB0byAvZXhhbXBsZWFwcC9zcGEKCgAgBy0-U2VydmVyOiBIVFRQIEdFVCByZXF1ZXN0ADEFc3BhCgAbBi0-AFAJSFRNTCBjb2RlACMiOiBtYWluLmNzcwA1EgARCQAjI3NwYS5qADETABIGIFwoanMgbWFuaXB1bGF0ZXMgc2luZ2xlIGh0bWwgZmlsZSBjb250ZW50IGluIFNQQSdzKQCCHhcAgjcHIHJlYWRzAFcId2hpY2ggdHJpZ2dlcnMAghgNZm9yIG5vdGUAgSMjACcFZGF0YS5qc29uAIJFEgASCSAocmF3ACUFIG9mIHRoZQBcBgCBEyB3cml0ZXMgYXJyYXkgb2YAOwZ0bwA8BXBhZ2U&s=default">
+
 
 #0.6: New note
 Create a diagram depicting the situation where user creates a new note using the single page version of the app.
