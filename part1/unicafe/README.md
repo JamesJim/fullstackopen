@@ -47,7 +47,7 @@ ReactDOM.render(<App />,
 # 1.7: unicafe step2
 Expand your application so that it shows more statistics about the gathered feedback: the total number of collected feedback, the average score (good: 1, neutral: 0, bad: -1) and the percentage of positive feedback.
 
-<img src="https://fullstackopen.com/static/0a5d15ae9f055a15cb469b9c9223df41/5a190/14e.png"
+<img src="https://fullstackopen.com/static/0a5d15ae9f055a15cb469b9c9223df41/5a190/14e.png">
 
 # 1.8: unicafe step3
 Refactor your application so that displaying the statistics is extracted into its own Statistics component. The state of the application should remain in the App root component.
